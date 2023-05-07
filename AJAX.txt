@@ -1,0 +1,1 @@
+Si el id no corresponde a ninguna etica, se devolvera null
